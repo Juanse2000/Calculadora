@@ -13,7 +13,7 @@ namespace CalculadoraNueva
             int numero2 = 0;
             int resultado = 0;
 
-            Console.WriteLine("Hola Amigos esta es una calculadora!");
+            Console.WriteLine("¡Hola Amigos esta es una nueva calculadora!");
             Console.WriteLine("Debes elegir que tipo de operacion quieres realizar!");
             Console.WriteLine("1 = Suma | 2 = Resta");
 
