@@ -37,7 +37,7 @@ namespace CalculadoraNueva
                     break;
                 case 2:
                     Console.WriteLine("Elegiste restar");
-                    Console.WriteLine("Escribe los numeros que quieres restar por favor");
+                    Console.WriteLine("Escribe los numeros que quieres restar");
                     Console.WriteLine("Numero 1:");
                     numero1 = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Numero 2:");

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micke\\Desktop\\CALCULADORA 2\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
+      "projectUniqueName": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
       "projectName": "CalculadoraNueva",
-      "projectPath": "C:\\Users\\micke\\Desktop\\CALCULADORA 2\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
+      "projectPath": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
       "packagesPath": "C:\\Users\\micke\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micke\\Desktop\\CALCULADORA 2\\Calculadora\\CalculadoraNueva\\obj\\",
+      "outputPath": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
