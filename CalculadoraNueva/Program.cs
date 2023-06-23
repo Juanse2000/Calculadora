@@ -15,14 +15,14 @@ namespace CalculadoraNueva
 
             Console.WriteLine("¡Hola Amigos esta es una nueva calculadora!");
             Console.WriteLine("Debes elegir que tipo de operacion quieres realizar!");
-            Console.WriteLine("1 = Suma | 2 = Resta");
+            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion" );
 
             operacion = Convert.ToInt32(Console.ReadLine());
 
             switch (operacion)
             {
                 case 1:
-                    Console.WriteLine("Elegiste sumar jeje");
+                    Console.WriteLine("Elegiste sumar jejeje");
                     Console.WriteLine("Escribe los numeros que quieres sumar por favor");
                     Console.WriteLine("Numero 1:");
                     numero1 = Convert.ToInt32(Console.ReadLine());
@@ -48,6 +48,19 @@ namespace CalculadoraNueva
 
                     Console.WriteLine("El resultado de su operacion es: " + resultado);
 
+                    break;
+                case 3:
+                    Console.WriteLine("Elegiste multiplicar");
+                    Console.WriteLine("Escribe los numeros que quieres multiplicar");
+                    Console.WriteLine("Numero 1:");
+                    numero1 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Numero 2:");
+                    numero2 = Convert.ToInt32(Console.ReadLine());
+
+                    Multiplicacion multi = new Multiplicacion();
+                    resultado = multi.Multiplicar(numero1, numero2);
+
+                    Console.WriteLine("El resultado de su operacion es: " + resultado);
                     break;
             }
         }

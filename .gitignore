@@ -77,4 +77,10 @@ TestResults/
 
 .vs/CalculadoraNueva/DesignTimeBuild/.dtbcache.v2
 .vs/CalculadoraNueva/FileContentIndex/
-.vs/CalculadoraNueva/v17/
+.vs/CalculadoraNueva/v17/.suo
+CalculadoraNueva/bin/Debug/net5.0/
+CalculadoraNueva/obj/Debug/net5.0/
+*.dll
+*.pdb
+ CalculadoraNueva/obj/Debug/net5.0/CalculadoraNueva.csproj.CoreCompileInputs.cache
+ *cache
