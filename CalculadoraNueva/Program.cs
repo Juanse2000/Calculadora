@@ -18,7 +18,7 @@ namespace CalculadoraNueva
 
             Console.WriteLine("¡Hola Amigos esta es una nueva calculadora!");
             Console.WriteLine("Debes elegir que tipo de operacion quieres realizar!");
-            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion | 4 = Multiplicacion | 5 = Modularizacion");
+            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion | 4 = Division | 5 = Modularizacion");
 
             operacion = Convert.ToInt32(Console.ReadLine());
 
@@ -66,8 +66,8 @@ namespace CalculadoraNueva
                     Console.WriteLine("El resultado de su operacion es: " + resultado);
                     break;
                 case 4:
-                    Console.WriteLine("Elegiste multiplicar");
-                    Console.WriteLine("Escribe los numeros que quieres multiplicar");
+                    Console.WriteLine("Elegiste Dividir");
+                    Console.WriteLine("Escribe los numeros que quieres Dividir");
                     Console.WriteLine("Numero 1:");
                     numero1d = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Numero 2:");
