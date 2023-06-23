@@ -72,3 +72,5 @@ TestResults/
 
 # Archivos de generación de documentación XML
 *.xml
+
+.vs/CalculadoraNueva/DesignTimeBuild/.dtbcache.v2
