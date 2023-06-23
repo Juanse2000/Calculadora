@@ -22,7 +22,7 @@ namespace CalculadoraNueva
             switch (operacion)
             {
                 case 1:
-                    Console.WriteLine("Elegiste sumar");
+                    Console.WriteLine("Elegiste sumar jeje");
                     Console.WriteLine("Escribe los numeros que quieres sumar por favor");
                     Console.WriteLine("Numero 1:");
                     numero1 = Convert.ToInt32(Console.ReadLine());

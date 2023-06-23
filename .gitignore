@@ -14,6 +14,8 @@ appsettings.Production.json
 
 # Archivos de usuario de Visual Studio
 .vs/
+CalculadoraNueva/bin/
+CalculadoraNueva/obj/
 
 # Archivos de caché de ReSharper
 _ReSharper*/
@@ -74,3 +76,5 @@ TestResults/
 *.xml
 
 .vs/CalculadoraNueva/DesignTimeBuild/.dtbcache.v2
+.vs/CalculadoraNueva/FileContentIndex/
+.vs/CalculadoraNueva/v17/

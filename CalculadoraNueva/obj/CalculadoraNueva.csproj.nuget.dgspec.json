@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj": {}
+    "C:\\Users\\Sebastian\\source\\repos\\CalculadoraNueva\\CalculadoraNueva\\CalculadoraNueva.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj": {
+    "C:\\Users\\Sebastian\\source\\repos\\CalculadoraNueva\\CalculadoraNueva\\CalculadoraNueva.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\source\\repos\\CalculadoraNueva\\CalculadoraNueva\\CalculadoraNueva.csproj",
         "projectName": "CalculadoraNueva",
-        "projectPath": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\CalculadoraNueva.csproj",
-        "packagesPath": "C:\\Users\\micke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micke\\Desktop\\CALCULADORA\\Calculadora\\CalculadoraNueva\\obj\\",
+        "projectPath": "C:\\Users\\Sebastian\\source\\repos\\CalculadoraNueva\\CalculadoraNueva\\CalculadoraNueva.csproj",
+        "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sebastian\\source\\repos\\CalculadoraNueva\\CalculadoraNueva\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\micke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
