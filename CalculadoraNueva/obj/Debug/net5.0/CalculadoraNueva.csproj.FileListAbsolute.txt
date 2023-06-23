@@ -1,0 +1,16 @@
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.exe
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.deps.json
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.runtimeconfig.json
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.dll
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\bin\Debug\net5.0\CalculadoraNueva.pdb
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.dll
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\refint\CalculadoraNueva.dll
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.pdb
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\CalculadoraNueva.genruntimeconfig.cache
+C:\Users\Sebastian\source\repos\CalculadoraNueva\CalculadoraNueva\obj\Debug\net5.0\ref\CalculadoraNueva.dll
