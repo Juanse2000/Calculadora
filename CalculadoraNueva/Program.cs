@@ -12,10 +12,11 @@ namespace CalculadoraNueva
             int numero1 = 0;
             int numero2 = 0;
             int resultado = 0;
+            double resultadoDecimal = 0;
 
             Console.WriteLine("¡Hola Amigos esta es una nueva calculadora!");
             Console.WriteLine("Debes elegir que tipo de operacion quieres realizar!");
-            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion" );
+            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion | 5 = Modularizacion");
 
             operacion = Convert.ToInt32(Console.ReadLine());
 
@@ -59,6 +60,19 @@ namespace CalculadoraNueva
 
                     Multiplicacion multi = new Multiplicacion();
                     resultado = multi.Multiplicar(numero1, numero2);
+
+                    Console.WriteLine("El resultado de su operacion es: " + resultado);
+                    break;
+                case 5:
+                    Console.WriteLine("Elegiste sacar el modulo");
+                    Console.WriteLine("Escribe los numeros que quieres sacar el modulo");
+                    Console.WriteLine("Numero 1:");
+                    numero1 = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Numero 2:");
+                    numero2 = Convert.ToInt32(Console.ReadLine());
+
+                    Modulo modulo = new Modulo();
+                    resultadoDecimal = modulo.Modular(numero1, numero2);
 
                     Console.WriteLine("El resultado de su operacion es: " + resultado);
                     break;
