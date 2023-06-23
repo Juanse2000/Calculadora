@@ -1,2 +1,74 @@
+# Carpeta bin y obj generadas por la compilación
+bin/
+obj/
+
+# Archivos de configuración local
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de registro
+*.log
+
+# Archivos de respaldo
+*~
+
+# Archivos de usuario de Visual Studio
 .vs/
-CalculadoraNueva/obj/
+
+# Archivos de caché de ReSharper
+_ReSharper*/
+
+# Archivos de caché de Rider
+.idea/
+
+# Archivos de caché de NuGet
+packages/
+
+# Carpeta de resultados de pruebas
+TestResults/
+
+# Archivos de publicación y distribución
+publish/
+
+# Carpeta de migraciones de Entity Framework
+Migrations/
+
+# Archivos de caché de MSBuild
+*.nuget.props
+*.nuget.targets
+
+# Archivos de análisis de código
+*.sln.DotSettings
+
+# Archivos de registro de código de cobertura
+*.opencover.xml
+*.coverage
+
+# Archivos de caché de Visual Studio Code
+.vscode/
+
+# Archivos de caché de Rider
+.idea/
+*.sln.iml
+
+# Archivos de registro de código de cobertura de JetBrains
+*.dotCover
+
+# Archivos de caché de Test Explorer
+TestResults/
+
+# Archivos de usuario de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de respaldo de Visual Studio
+*.bak
+*.cache
+
+# Archivos de depuración
+*.pdb
+
+# Archivos de generación de documentación XML
+*.xml
