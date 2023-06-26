@@ -18,7 +18,7 @@ namespace CalculadoraNueva
 
             Console.WriteLine("¡Hola Amigos esta es una nueva calculadora!");
             Console.WriteLine("Debes elegir que tipo de operacion quieres realizar!");
-            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion | 4 = Division | 5 = Modularizacion");
+            Console.WriteLine("1 = Suma | 2 = Resta | 3 = Multiplicacion | 4 = Division | 5 = Modularizacion | 6 = Potencia");
 
             operacion = Convert.ToInt32(Console.ReadLine());
 
@@ -88,6 +88,20 @@ namespace CalculadoraNueva
 
                     Modulo modulo = new Modulo();
                     resultadoDecimal = modulo.Modular(numero1, numero2);
+
+                    Console.WriteLine("El resultado de su operacion es: " + resultadoDecimal);
+                    break;
+                case 6:
+                    Console.WriteLine("Elegiste Elevar a la potencia");
+                    Console.WriteLine("Escribe el numero base");
+                    Console.WriteLine("Numero 1:");
+                    numero1d = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Escribe el numero potencia");
+                    Console.WriteLine("Numero 2:");
+                    numero2d = Convert.ToInt32(Console.ReadLine());
+
+                    Potencia potencia = new Potencia();
+                    resultadoDecimal = potencia.Potenciar(numero1d, numero2d);
 
                     Console.WriteLine("El resultado de su operacion es: " + resultadoDecimal);
                     break;
